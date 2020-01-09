@@ -1,2 +1,2 @@
-# c-
-goold old fun
+# c++
+good old fun
